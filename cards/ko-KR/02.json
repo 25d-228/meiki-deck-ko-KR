@@ -15,7 +15,7 @@
     "language_specific": {
       "target_unit": "phrase",
       "morphology": "찾을 수 있어요 = 찾- + -을 수 있다, with 있다 in the informal polite present.",
-      "pronunciation": "Sentence: 찾을 수 [차츨 쑤]. The final ㅊ links to the following vowel, and prospective -(으)ㄹ makes 수 tense.",
+      "pronunciation": "Sentence: 찾을 수 [차즐 쑤]. The final ㅈ links to the following vowel, and prospective -(으)ㄹ makes 수 tense.",
       "speech_level": "informal polite",
       "lexical_frame": "지도에서 장소를 찾다: find a place on a map."
     }
@@ -1267,7 +1267,7 @@
     "language_specific": {
       "target_unit": "phrase",
       "morphology": "찾- + -아야 하다 forms 찾아야 하다; 해요 is the informal polite form of 하다.",
-      "pronunciation": "Target: \"찾아야 해요\" [차차야 해요]. The final ㅊ links to the following vowel.",
+      "pronunciation": "Target: \"찾아야 해요\" [차자야 해요]. The final ㅈ links to the following vowel.",
       "speech_level": "informal polite",
       "lexical_frame": "사전에서 단어를 찾다: look up a word in a dictionary."
     }
@@ -1308,7 +1308,7 @@
     "language_specific": {
       "target_unit": "phrase",
       "morphology": "찾- + -아야 하다 forms 찾아야 하다; 해요 is the informal polite form of 하다.",
-      "pronunciation": "Target: \"찾아야 해요\" [차차야 해요]. The final ㅊ links to the following vowel.",
+      "pronunciation": "Target: \"찾아야 해요\" [차자야 해요]. The final ㅈ links to the following vowel.",
       "speech_level": "informal polite",
       "lexical_frame": "열쇠를 찾다: find a key."
     }
@@ -3496,7 +3496,7 @@
     "language_specific": {
       "target_unit": "phrase",
       "morphology": "찾- + -아 forms 찾아; 보- + -ㄹ 거예요 forms 볼 거예요 for a future trial.",
-      "pronunciation": "Target: 찾아 볼 거예요 [차차 볼 꺼예요]. The final consonant of 찾 moves to the following vowel, and 거 is tensed after 볼.",
+      "pronunciation": "Target: 찾아 볼 거예요 [차자 볼 꺼예요]. The final consonant of 찾 moves to the following vowel, and 거 is tensed after 볼.",
       "speech_level": "informal polite"
     }
   },
@@ -5594,7 +5594,7 @@
       "morphology": "찾- + -은 + 후 + 에 forms 찾은 후에.",
       "speech_level": "informal polite",
       "lexical_frame": "짐을 찾다: collect one's luggage.",
-      "pronunciation": "Target: 찾은 [차츤]. The final ㅊ moves to the following vowel-initial syllable."
+      "pronunciation": "Target: 찾은 [차즌]. The final ㅈ moves to the following vowel-initial syllable."
     }
   },
   {
@@ -9015,7 +9015,7 @@
       "target_unit": "word",
       "morphology": "찾다 stem 찾- + past attributive -은 → 찾은.",
       "speech_level": "informal polite",
-      "pronunciation": "Target: 찾은 [차츤]. The final ㅊ moves to the following vowel-initial syllable."
+      "pronunciation": "Target: 찾은 [차즌]. The final ㅈ moves to the following vowel-initial syllable."
     }
   },
   {
@@ -10004,7 +10004,7 @@
     "language_specific": {
       "target_unit": "word",
       "morphology": "찾다 → 찾- + -았- + -습니다 → 찾았습니다. The ending attaches to a consonant stem.",
-      "pronunciation": "Target: 찾았습니다 [차찯씀니다]. The stem-final ㅊ links to 아; final ㅆ is pronounced [ㄷ] before 습, and 습니다 is pronounced [씀니다].",
+      "pronunciation": "Target: 찾았습니다 [차잗씀니다]. The stem-final ㅈ links to 아; final ㅆ is pronounced [ㄷ] before 습, and 습니다 is pronounced [씀니다].",
       "speech_level": "formal polite",
       "lexical_frame": "답을 찾다: find an answer."
     }
@@ -10671,7 +10671,7 @@
     "language_specific": {
       "target_unit": "word",
       "morphology": "찾- + -습니까 → 찾습니까; the formal question ending attaches to the consonant stem.",
-      "pronunciation": "Target: 찾습니까 [찯씀니까]. Final ㅊ is pronounced ㄷ and the ending begins with tense ㅆ.",
+      "pronunciation": "Target: 찾습니까 [찯씀니까]. Final ㅈ is pronounced ㄷ and the ending begins with tense ㅆ.",
       "speech_level": "formal polite",
       "lexical_frame": "분실물을 찾다: retrieve a lost item."
     }
@@ -12096,7 +12096,7 @@
     "language_specific": {
       "target_unit": "word",
       "morphology": "찾다: 찾- + -았다고 forms a past declarative quotation.",
-      "pronunciation": "Target: 찾았다고 [차찯따고]. The past ending's final consonant is followed by a tense ㄸ.",
+      "pronunciation": "Target: 찾았다고 [차잗따고]. The past ending's final consonant is followed by a tense ㄸ.",
       "speech_level": "informal polite",
       "lexical_frame": "지갑을 찾다: find a wallet."
     }
@@ -12532,7 +12532,7 @@
     "language_specific": {
       "target_unit": "phrase",
       "morphology": "찾다: 찾- + the prospective modifier -을 + 거라고; 거라고 contracts 것이라고, including the copula 이-.",
-      "pronunciation": "Target: 찾을 거라고 [차츨 꺼라고]. The ㄹ before 거 makes its ㄱ tense.",
+      "pronunciation": "Target: 찾을 거라고 [차즐 꺼라고]. The ㄹ before 거 makes its ㄱ tense.",
       "speech_level": "informal polite",
       "lexical_frame": "안경을 찾다: look for one's glasses."
     }
@@ -12636,7 +12636,7 @@
     "language_specific": {
       "target_unit": "phrase",
       "morphology": "찾다: 찾- + the prospective modifier -을 + 거라고; 거라고 contracts 것이라고, including the copula 이-.",
-      "pronunciation": "Target: 찾을 거라고 [차츨 꺼라고]. The ㄹ before 거 makes its ㄱ tense.",
+      "pronunciation": "Target: 찾을 거라고 [차즐 꺼라고]. The ㄹ before 거 makes its ㄱ tense.",
       "speech_level": "informal polite",
       "lexical_frame": "은행에서 돈을 찾다: withdraw money at a bank."
     }
